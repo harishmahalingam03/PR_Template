@@ -21,7 +21,7 @@
 4. **Script Changes**: 
    - E.g., Updated bash scripts, Terraform/CloudFormation templates.
 5. **Configuration Files**: 
-   - E.g., Modified Nginx/Apache configurations, updated Dockerfiles.
+   - E.g., Modified Nginx/Apache/POSTGRES configurations, updated Dockerfiles.
 
 ---
 
